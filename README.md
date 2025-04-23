@@ -10,7 +10,7 @@ Cite this article:
 
 ## Description
 
-This repository contains the code for the paper **“Autoencoder-based Detector for Distinguishing Process Anomaly and Sensor Failure”** by Chia-Yen Lee, Kai Chang, and Chien Ho. The study proposes a framework that uses autoencoder-based control limits to dynamically and accurately detect when an observed anomaly is due to the manufacturing process itself, or instead caused by a sensor failure. It is validated via numerical simulations and a real-world semiconductor assembly use case.
+This repository contains the demo code for the paper **“Autoencoder-based Detector for Distinguishing Process Anomaly and Sensor Failure”** by Chia-Yen Lee, Kai Chang, and Chien Ho. The study proposes a framework that uses autoencoder-based control limits to dynamically and accurately detect when an observed anomaly is due to the manufacturing process itself, or instead caused by a sensor failure. It is validated via numerical simulations and a real-world semiconductor assembly use case.
 
 ### Abstract
 
