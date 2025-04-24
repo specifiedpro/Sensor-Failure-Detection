@@ -17,6 +17,7 @@ This repository contains the demo code for the paper **“Autoencoder-based Dete
 > Anomaly detection is a frequently discussed topic in manufacturing. However, the issues of anomaly detection are typically attributed to the manufacturing process or equipment itself. In practice, the sensor responsible for collecting data and monitoring values may fail, leading to a biased detection result – false alarm. In such cases, replacing the sensor is necessary instead of performing equipment maintenance. This study proposes an effective framework embedded with autoencoder-based control limits that can dynamically distinguish sensor anomaly from process anomaly in real-time. We conduct a simulation numerical study and an empirical study of semiconductor assembling manufacturers to validate the proposed framework. The results show that the proposed model outperforms other benchmark methods and can successfully identify sensor failures, even under conditions of (1) large variations in process values or sensor values and (2) heteroscedasticity effect. This is particularly beneficial in various practical applications where sensors are used for numerical measurements and support equipment maintenance.
 
 **Keywords**: Prognostics and health management, sensor failure, anomaly detection, deep learning, autoencoder
+![image](https://github.com/user-attachments/assets/27cb791c-725c-45de-be11-05ffc2d46aa2)
 
 ---
 
